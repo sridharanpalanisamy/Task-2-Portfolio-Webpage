@@ -1,0 +1,57 @@
+/* Navigation Bar */
+nav ul li a {
+    color: var(--light);
+    text-decoration: none;
+    font-weight: 500;
+    position: relative;
+    padding: 5px 0;
+    transition: color 0.3s;
+}
+nav ul li a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--accent);
+    transition: width 0.3s ease;
+}
+nav ul li a:hover,
+strong:hover {
+    color: #d9005a;
+}
+nav ul li a:hover::after {
+    width: 100%;
+}
+
+/* Section Animation Delay */
+section:nth-child(n) {
+    animation-delay: calc(0.1s * var(--section-index, 1));
+}
+
+/* Project Card Hover */
+.project-card:hover,
+.education-card:hover,
+section:hover {
+    transform: translateY(-5px);
+    border-color: var(--primary);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Button Hover */
+.resume-button:hover,
+.todo-item button:hover,
+#backToTop:hover {
+    background-color: #d9005a;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 0, 110, 0.3);
+}
+
+/* Input Focus */
+form input:focus,
+form textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+    background: rgba(58, 134, 255, 0.07);
+}
