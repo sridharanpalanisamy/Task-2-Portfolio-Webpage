@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sridharan P - Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav class="container">
+            <strong>SP</strong>
+            <ul>
+                <li><a href="#profile">Profile</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="profile">
+    <div class="container profile-container">
+        <div class="profile-picture">
+            <img src="assets/images/profile.png" alt="Profile Picture">
+        </div>
+        <div class="profile-info">
+            <h1>Sridharan Palanisamy</h1>
+            <p class="tagline">Software Developer</p>
+            <p class="description">Hi! Welcome to my professional portfolio showcasing my background, education, projects, and experience in web development.</p>
+            <a href="resume.pdf" class="resume-button" target="_blank">
+                <i class="fas fa-file-pdf"></i> View Resume
+            </a>
+        </div>
+    </div>
+</section>
+
+        <section id="education">
+            <div class="container">
+                <h2>Education</h2>
+                <div class="education-grid">
+                    <div class="education-card">
+                        <h3>Matriculation</h3>
+                        <p>K.R.P Matric Higher Secoundary school</p>
+                        <p>(2002 - 2014)</p>
+                        <span class="Description">Completed higher secondary education with a focus on science and mathematics.
+                            Built a strong foundation in physics and problem-solving skills.</span>
+                    </div>
+                    <div class="education-card">
+                        <h3>Diplamo in Mechanical Engineering</h3>
+                        <p>Muthayammal Polytechnic college</p>
+                        <p>(2014 - 2017)</p>
+                        <span class="Description">Focused on mechanical design, manufacturing processes, and thermal
+                            engineering. Developed hands-on skills in CAD modeling and industrial machinery
+                            operations.</span>
+                    </div>
+                    <div class="education-card">
+                        <h3>Bachelor in Electrical & Electronics Engineering</h3>
+                        <p>Kongu Engineering College</p>
+                        <p>(2021 - 2024)</p>
+                        <span class="Description">Studied core electrical and electronics engineering concepts, including power
+                            systems, control systems, and embedded systems.</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="skill-section" id="skills">
+    <div class="portfolio-website-skills-sections">
+        <div class="container">
+            <h1 class="portfolio-about-me-subheading">Skills</h1>
+            <div class="portfolio-skills-container">
+                <!-- Skill Card 1 -->
+                <div class="portfolio-skills-card shadow">
+                    <img class="portfolio-skills-img" 
+                        src="assets/images/html-img.png" 
+                        alt="HTML" />
+                    <h1 class="portfolio-skills-img-heading">HTML</h1>
+                </div>
+                <!-- Skill Card 2 -->
+                <div class="portfolio-skills-card shadow">
+                    <img class="portfolio-skills-img" 
+                        src="assets/images/css-img.png" 
+                        alt="CSS" />
+                    <h1 class="portfolio-skills-img-heading">CSS</h1>
+                </div>
+                <!-- Skill Card 3 -->
+                <div class="portfolio-skills-card shadow">
+                    <img class="portfolio-skills-img" 
+                        src="assets/images/js-img.png" 
+                        alt="JavaScript" />
+                    <h1 class="portfolio-skills-img-heading">JS</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+        <section id="projects">
+            <div class="container">
+                <h2>Projects</h2>
+                <div class="projects-grid-container">
+                    <div class="project-card">
+                        <h3>Portfolio Website</h3>
+                        <img style="object-fit: cover;" src="assets/images/Portfolio-page.jpeg"
+                            alt="Project 1 Screenshot" class="project-image">
+                        <p>A responsive personal portfolio built with HTML, CSS, and JavaScript.</p>
+                        <div class="tech-tags">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                        <a href="#" class="project-link">View Details</a>
+                    </div>
+                    <div class="project-card">
+                        <h3>Landing Website</h3>
+                        <img style="object-fit: cover;" src="assets/images/Landing Page.jpeg"
+                            alt="Project 2 Screenshot" class="project-image">
+                        <p>A responsive personal portfolio built with HTML, CSS, and JavaScript.</p>
+                        <div class="tech-tags">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                        <a href="https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/" class="project-link">View Details</a>
+                    </div>
+                    <div class="project-card">
+                        <h3>Temperature Convert Website</h3>
+                        <img style="object-fit: cover;" src="assets/images/Temperature converter.jpeg"
+                            alt="Project 3 Screenshot" class="project-image">
+                        <p>A responsive he user will input a temperature in either Fahrenheit or Celsius and
+                            press a "convert" button. The converted temperature will then be
+                            displayed with the correct unit built with HTML, CSS, and JavaScript.</p>
+                        <div class="tech-tags">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                        <a href="#" class="project-link">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="container contact-container">
+                <h2>Get In Touch</h2>
+                <form id="contactForm">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" placeholder="Full Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" placeholder="abc@gmail.com" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Mobile Number">Mobile Number</label>
+                        <input type="number" name="mobile" placeholder="Mobile number" required pattern="[0-9]{10}">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" placeholder="Type your queries here..." required></textarea>
+                    </div>
+                    <button type="submit">Submit your response</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <button id="backToTop" title="Go to top">↑</button>
+    <footer>
+  <p> Designed by Sridharan</p>
+</footer>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
