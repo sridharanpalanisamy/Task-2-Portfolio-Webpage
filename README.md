@@ -114,7 +114,7 @@ If you'd like to reach out, feel free to connect:
 
 📧 Email: sridharanpalanisamy96@gmail.com
 
-🌐 LinkedIn: (Add your LinkedIn URL here)
+🌐 LinkedIn: https://www.linkedin.com/in/sridharan-palanisamy-298626315/
 
 📄 License
 This project is open-source under the MIT License. You are free to use, modify, and distribute it for learning and personal projects.
@@ -126,13 +126,6 @@ Copy code
 
 ---
 
-### ✅ What to do next:
-1. Save this content as `README.md` in the root folder of your GitHub repo.
-2. Commit and push the file to GitHub.
-3. (Optional) Replace the `LinkedIn` placeholder with your actual LinkedIn URL.
-4. If you're using a `LICENSE` file, mention the license in that file too.
-
-Would you like this converted to a downloadable `.md` file or copy-paste text format?
 
 
 
