@@ -90,23 +90,24 @@ start index.html
 Or use Live Server in VS Code.
 
 📸 Live Projects Included
+
 ✅ Portfolio Website
 
 Tech: HTML, CSS, JS
 
-🔗 View Project
+🔗 View Project: https://sridharanpalanisamy.github.io/Task-2-Portfolio-Webpage/
 
 ✅ Landing Page
 
 Tech: HTML, CSS, JS
 
-🔗 View Project
+🔗 View Project: https://sridharanpalanisamy.github.io/OIBSIP/task-1%20Landing%20Page/
 
 ✅ Temperature Converter
 
 Tech: HTML, CSS, JS
 
-🔗 View Project
+🔗 View Project: https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/
 
 📬 Contact
 If you'd like to reach out, feel free to connect:
