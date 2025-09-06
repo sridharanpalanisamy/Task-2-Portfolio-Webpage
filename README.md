@@ -121,16 +121,3 @@ This project is open-source under the MIT License. You are free to use, modify, 
 
 ✨ Designed & Developed by Sridharan Palanisamy
 
-vbnet
-Copy code
-
----
-
-
-
-
-
-
-
-
-Ask ChatGPT
