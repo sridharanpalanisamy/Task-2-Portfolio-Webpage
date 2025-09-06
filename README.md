@@ -34,21 +34,37 @@ Welcome to my **personal portfolio website**! This project showcases my profile,
 
 Task-2-Portfolio-Webpage/
 │
+
 ├── index.html
+
 ├── README.md
+
 ├── resume.pdf
+
 ├── assets/
+
 │ ├── css/
+
 │ │ └── style.css
+
 │ ├── js/
+
 │ │ └── script.js
+
 │ └── images/
+
 │ ├── profile.png
+
 │ ├── html-img.png
+
 │ ├── css-img.png
+
 │ ├── js-img.png
+
 │ ├── Portfolio-page.jpeg
+
 │ ├── Landing Page.jpeg
+
 │ └── Temperature converter.jpeg
 
 yaml
