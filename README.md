@@ -1,4 +1,4 @@
-# 🌐 **Sridharan P - Portfolio Website**
+# 🌐 **Sridharan P - Portfolio Website page**
 
 Welcome to my **personal portfolio website**! This project showcases my profile, education, skills, and some of the key web development projects I’ve built. The site is responsive and created using **HTML**, **CSS**, and **JavaScript**.
 
