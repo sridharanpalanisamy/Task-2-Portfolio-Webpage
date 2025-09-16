@@ -67,29 +67,18 @@ Task-2-Portfolio-Webpage/
 
 │ └── Temperature converter.jpeg
 
-yaml
-Copy code
-
----
-
 ## 🚀 **How to Run Locally**
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/sridharanpalanisamy/Task-2-Portfolio-Webpage.git
+   
 Navigate to the folder:
-
-bash
-Copy code
 cd Task-2-Portfolio-Webpage
 Open index.html in your browser:
-
-bash
-Copy code
 start index.html
 Or use Live Server in VS Code.
 
-📸 Live Projects Included
+## 📸 Live Projects Included
 
 ✅ Portfolio Website
 
@@ -109,14 +98,14 @@ Tech: HTML, CSS, JS
 
 🔗 View Project: https://sridharanpalanisamy.github.io/Task-3-Temperature-Converter/
 
-📬 Contact
+## 📬 Contact
 If you'd like to reach out, feel free to connect:
 
 📧 Email: sridharanpalanisamy96@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/in/sridharan-palanisamy-298626315/
 
-📄 License
+## 📄 License
 This project is open-source under the MIT License. You are free to use, modify, and distribute it for learning and personal projects.
 
 ✨ Designed & Developed by Sridharan Palanisamy
