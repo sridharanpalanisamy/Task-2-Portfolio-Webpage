@@ -108,5 +108,5 @@ If you'd like to reach out, feel free to connect:
 ## 📄 License
 This project is open-source under the MIT License. You are free to use, modify, and distribute it for learning and personal projects.
 
-✨ Designed & Developed by Sridharan Palanisamy
+✨ Designed & Developed by Sridharan P
 
