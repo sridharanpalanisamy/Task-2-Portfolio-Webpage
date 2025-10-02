@@ -72,7 +72,7 @@ Task-2-Portfolio-Webpage/
 1. Clone the repository:
    git clone https://github.com/sridharanpalanisamy/Task-2-Portfolio-Webpage.git
    
-Navigate to the folder:
+2. Navigate to the folder:
 cd Task-2-Portfolio-Webpage
 Open index.html in your browser:
 start index.html
