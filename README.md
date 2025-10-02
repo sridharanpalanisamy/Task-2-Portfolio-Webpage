@@ -71,12 +71,10 @@ Task-2-Portfolio-Webpage/
 
 1. Clone the repository:
    git clone https://github.com/sridharanpalanisamy/Task-2-Portfolio-Webpage.git
-   
 2. Navigate to the folder:
-cd Task-2-Portfolio-Webpage
-Open index.html in your browser:
-start index.html
-Or use Live Server in VS Code.
+    cd Task-2-Portfolio-Webpage
+3. Open index.html in your browser:
+    start index.html Or use Live Server in VS Code.
 
 ## 📸 Live Projects Included
 
