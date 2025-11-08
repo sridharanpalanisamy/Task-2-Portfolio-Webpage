@@ -70,10 +70,11 @@ Task-2-Portfolio-Webpage/
 ## 🚀 **How to Run Locally**
 
 1. Clone the repository:
+2. 
    git clone https://github.com/sridharanpalanisamy/Task-2-Portfolio-Webpage.git
-2. Navigate to the folder:
+3. Navigate to the folder:
     cd Task-2-Portfolio-Webpage
-3. Open index.html in your browser:
+4. Open index.html in your browser:
     start index.html Or use Live Server in VS Code.
 
 ## 📸 Live Projects Included
